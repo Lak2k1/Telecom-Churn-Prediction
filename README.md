@@ -42,4 +42,6 @@ By mathematically proving feature significance and tuning the cost function for 
 *Conclusion: Rigorous statistical testing, multicollinearity purging, and behavioral feature engineering allowed a highly-explainable Linear Kernel SVM to maximize minority-class recall and draw a highly robust decision boundary.*
 
 ## 💡 How to View
-Simply open the `.ipynb` file in this repository to view the complete EDA visualizations, statistical test outputs, and the GridSearchCV pipeline.
+Simply open the `.ipynb` file in this repository to view the full Exploratory Data Analysis (EDA) and model training pipeline.
+
+Or if you simply want to open in Colab use [this](https://colab.research.google.com/drive/1E9oB_ARCN9KUbKjeSmrKI7Qxg6RKpfoC#scrollTo=8VkAVEkBiYK8) link.
