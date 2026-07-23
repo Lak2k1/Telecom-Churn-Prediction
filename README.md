@@ -10,7 +10,7 @@ Customer attrition is a major expense in the telecom industry. The objective of 
 
 ## 🛠️ Tech Stack
 * **Data Manipulation & Visualization:** `pandas`, `numpy`, `matplotlib`, `seaborn`
-* **Statistical Testing:** `scipy.stats` (Chi-Square, Welch's T-Test)
+* **Statistical Testing:** `scipy.stats` (Chi-Square, T-Test)
 * **Machine Learning:** `scikit-learn` (Logistic Regression, Decision Trees, Support Vector Machines, GridSearchCV)
 
 ## 🚀 Key Methodologies & Workflow
